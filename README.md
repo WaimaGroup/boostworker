@@ -44,11 +44,19 @@ Used by:
 
 ## Roadmap
 
-### v2.2.0 (Jul 2025)
+### v3.0.0 (September 2025)
 - Mac and Linux desktop app
 
-### v2.3.0 (Aug 2025)
-- Export data to Factorial
+### v3.1.0 (Dec 2025)
+- Connect with factorial
+- Connect with Sesame tool
+
+### v3.2.0 (Mar 2026)
+- Connect with redmine for task
+- Connect with Jira for time entries
+
+### v4.0.0 (Jun 2026)
+- Create human agentic
 
 
 ## Features and bugs
