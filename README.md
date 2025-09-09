@@ -49,15 +49,15 @@ Used by:
 
 ### v3.1.0 (Dec 2025)
 - Connect with factorial
-- Connect with Sesame tool
+- Connect with Jira for time entries
 
 ### v3.2.0 (Mar 2026)
 - Connect with redmine for task
-- Connect with Jira for time entries
+- Connect with Sesame tool
 
 ### v4.0.0 (Jun 2026)
-- Create human agentic
-
+- Register your time spent in the tasks from BW
+- Resume of the tasks and screenshot of your work
 
 
 ## Features and bugs
