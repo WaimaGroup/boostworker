@@ -37,28 +37,22 @@ Used by:
 
 ## Releases
 
-### V2.1.8 (Jun 2025)
-- Happiness interface and report
-- Gamification of the platform with leagues and rewards
-- Optimization in the productivity estimation process
-
-## Roadmap
-
-### v3.0.0 (September 2025)
-- Mac and Linux desktop app
-
-### v3.1.0 (Dec 2025)
-- Connect with factorial
+### v3.0 (Mar 2026)
+- Connect with redmine for task
+- Register your time spent in the tasks from BW
 - Connect with Jira for time entries
 
-### v3.2.0 (Mar 2026)
-- Connect with redmine for task
+### v4.0 (Jun 2026)
+- Resume of the tasks and screenshot of your work with IA
+- Connect with factorial
+- Detect meal stops automatically
+
+### v4.1 (Sept 2026)
 - Connect with Sesame tool
+- Test obligatory best practices in the organization before to close session (upload code, update documentation...)
 
-### v4.0.0 (Jun 2026)
-- Register your time spent in the tasks from BW
-- Resume of the tasks and screenshot of your work
-
+### v4.2 (Dec 2026)
+- Connect with YPM
 
 ## Features and bugs
 Please open issues and feature requests via GitHub Issues.
