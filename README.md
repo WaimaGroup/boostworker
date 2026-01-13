@@ -1,12 +1,12 @@
 # Boostworker
 
 # About Boostworker
-HomeCheck-in is a platform designed to optimize and boost the productivity of work teams, regardless of their location. Especially geared towards remote work, it offers features for both users and administrators, making it easier to manage and monitor working time and activity.
+BoostWorker is a platform designed to optimize and boost the productivity of work teams, regardless of their location. Especially geared towards remote work, it offers features for both users and administrators, making it easier to manage and monitor working time and activity.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/boostworker/)  
 
 # Mission
-HomeCheck-in optimizes remote team productivity through smart time tracking, activity monitoring, and secure facial recognition tools.
+BoostWorker optimizes remote team productivity through smart time tracking, activity monitoring, and secure facial recognition tools.
 
 # Live demo
 
