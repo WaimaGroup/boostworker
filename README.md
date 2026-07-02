@@ -37,23 +37,29 @@ Used by:
 
 ## Releases
 
-### v3.0 (Mar 2026)
-- Connect with redmine for task
-- Register your time spent in the tasks from BW
-- Connect with Jira for time entries
+### v3.7.6 (Jul 2026)
+- Manual Check-in Blocked
+- Screenshots in Activities
+- Fix in Importing Employees
+- Desktop "Submit" Button is Now Dynamic
 
-### v4.0 (Jun 2026)
-- Resume of the tasks and screenshot of your work with IA
-- Connect with factorial
-- Detect meal stops automatically
+### v4.2 (Dec 2025)
+- Connect with YPM
 
-### v4.1 (Sept 2026)
+### v4.1 (Sept 2025)
 - Connect with Sesame tool
 - Test obligatory best practices in the organization before to close session (upload code, update documentation...)
 
-### v4.2 (Dec 2026)
-- Connect with YPM
-
+### v4.0 (Jun 2025)
+- Resume of the tasks and screenshot of your work with IA
+- Connect with factorial
+- Detect meal stops automatically
+  
+### v3.0 (Mar 2025)
+- Connect with redmine for task
+- Register your time spent in the tasks from BW
+- Connect with Jira for time entries
+  
 ## Features and bugs
 Please open issues and feature requests via GitHub Issues.
 
