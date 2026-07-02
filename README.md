@@ -43,7 +43,7 @@ Used by:
 - Fix in Importing Employees
 - Desktop "Submit" Button is Now Dynamic
 
-### v3.7.5 (May 2026)
+### v3.7.5 (Jun 2026)
 - Visibility and Time Management
 
 ### v3.7.2 (May 2026)
