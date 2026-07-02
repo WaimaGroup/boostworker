@@ -43,19 +43,38 @@ Used by:
 - Fix in Importing Employees
 - Desktop "Submit" Button is Now Dynamic
 
-### v4.2 (Dec 2025)
-- Connect with YPM
+### v3.7.5 (May 2026)
+- Visibility and Time Management
 
-### v4.1 (Sept 2025)
-- Connect with Sesame tool
-- Test obligatory best practices in the organization before to close session (upload code, update documentation...)
+### v3.7.2 (May 2026)
+- JIRA Connectors
+- Toolbar - Desktop
 
-### v4.0 (Jun 2025)
+### v3.6.0 (Apr 2026)
+- Agents
+- Holidays
+
+### v3.5.0 (Jan 2026)
+- Outside of working hours
+
+### v3.3.1 (Dec 2025)
+- Productivity: Change column names.
+- Rounding: Productivity calculation.
+- Update: Error Check-In from the application.
+
+### v3.3.0 (Nov 2025)
+- Automatic closure in cross-platform application.
+- Agent user creation and synchronization with Keycloak.
+
+### v2.3.0 (Sept 2025)
+- Collection of previous versions
+
+### v2.1.0 (Jun 2025)
 - Resume of the tasks and screenshot of your work with IA
 - Connect with factorial
 - Detect meal stops automatically
   
-### v3.0 (Mar 2025)
+### v2.0 (Mar 2025)
 - Connect with redmine for task
 - Register your time spent in the tasks from BW
 - Connect with Jira for time entries
